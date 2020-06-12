@@ -1,0 +1,27 @@
+.number {
+    margin-top: 60px;
+    font-weight: bold;
+}
+
+h1 {
+    color: white;
+    background-color: skyblue;
+    padding-left: 10px;
+    font-weight: bold;
+}
+
+h2 {
+    color: skyblue;
+    margin-left: 10px;
+    font-weight: bold;
+}
+
+p {
+    margin-left: 50px;
+    font-weight: bold;
+}
+
+.footer {
+    font-weight: normal;
+    font-size: medium;
+}
